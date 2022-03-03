@@ -1,0 +1,28 @@
+{
+  "name": "project-ash-bizzle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Purdue-WDC/project-ash-bizzle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Purdue-WDC/project-ash-bizzle/issues"
+  },
+  "homepage": "https://github.com/Purdue-WDC/project-ash-bizzle#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.1.2",
+    "url": "^0.11.0"
+  }
+}
